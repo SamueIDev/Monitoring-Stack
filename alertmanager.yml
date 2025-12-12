@@ -1,0 +1,6 @@
+route:
+  receiver: 'default'
+receivers:
+- name: 'default'
+  slack_configs: []  # Add webhook later
+  email_configs: []  # Add SMTP later
